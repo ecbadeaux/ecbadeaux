@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Languages and Tools :
-<div id="badges" align="left"> 
+<div id="tools" align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
@@ -27,6 +27,16 @@
 ---
 
 ### 🔥 My Stats :
-[![Everett's github stats](https://github-readme-stats.vercel.app/api?username=ecbadeaux&show_icons=true&theme=dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ecbadeaux&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecbadeaux&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ecbadeaux&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ecbadeaux)](https://git.io/streak-stats)
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecbadeaux&layout=compact&theme=dark&count_private=true&hide_border=true" alt="Top Languages" />
+</div>
+
+<!-- Alternative stats service -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ecbadeaux&theme=github_dark" alt="Profile Summary" />
+</div>

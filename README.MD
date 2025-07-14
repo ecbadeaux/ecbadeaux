@@ -27,9 +27,6 @@
 ---
 
 ### 🔥 My Stats :
-[![Everett's github stats](https://github-readme-stats.vercel.app/api?username=ecbadeaux&show_icons=true&theme=dark&hide=issues&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ecbadeaux&theme=dark)](https://git.io/streak-stats)
-
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecbadeaux&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Everett's github stats](https://github-readme-stats.vercel.app/api?username=ecbadeaux&show_icons=true&theme=dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ecbadeaux&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecbadeaux&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

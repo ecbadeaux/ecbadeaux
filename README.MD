@@ -27,16 +27,4 @@
 ---
 
 ### 🔥 My Stats :
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecbadeaux&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ecbadeaux)](https://git.io/streak-stats)
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecbadeaux&layout=compact&theme=dark&count_private=true&hide_border=true" alt="Top Languages" />
-</div>
-
-<!-- Alternative stats service -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ecbadeaux&theme=github_dark" alt="Profile Summary" />
-</div>
+[![Everett's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecbadeaux)](https://github.com/ecbadeaux/github-readme-stats)
